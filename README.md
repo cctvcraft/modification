@@ -1,6 +1,8 @@
+# About CCTV Craft
+
+# Community
+### Reporting Issues
+* Read this [Bug Reporting Guide](https://github.com/cctvcraft/modification/wiki/Bug-Report-Guide) on the steps to report a bug.
+
 # Downloads
-## Versions
-| Stable | Build | Minecraft | Forge | Status | Downloads Page | Changelog |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | 3.1.0 | 1.15.2 | 31.2.0 | Upcoming |  | [Changelog](https://github.com/cctvcraft/modification/wiki/Changelog-3.1.0) |
-| ![Stable](https://i.imgur.com/7tPyImr.png) | 3.0.0 | 1.14.4 / 1.15.2 | 28.2.0 / 31.2.0 | Released | [Download](https://github.com/cctvcraft/modification/releases/tag/v3.0.0) | [Changelog](https://github.com/cctvcraft/modification/wiki/Changelog-3.0.0) |
+[![releases](https://user-images.githubusercontent.com/47284617/114111474-f64dbd80-988e-11eb-8c19-eccdf70902a8.png)](https://github.com/cctvcraft/modification/wiki/Stable-Releases) [![snapshots](https://user-images.githubusercontent.com/47284617/114111608-517fb000-988f-11eb-8d0f-f8667d213f12.png)](https://github.com/cctvcraft/modification/wiki/Unstable-Releases)
