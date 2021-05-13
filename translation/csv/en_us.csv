@@ -1,5 +1,8 @@
-Translation key (DON'T EDIT!!!),TRANSLATION IN fr_fr - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
+SEP=,
+Translation key (DON'T EDIT!!!),TRANSLATION IN en_us - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
+itemGroup.tabcctv_craft_misc,CCTV Craft Misc,CCTV Craft Misc
 key.cctvcraft.view_camera_5_key,View Camera 5,View Camera 5
+gui.cctvcraft.screen_monitor_naming_menu,Naming Menu,Naming Menu
 block.cctvcraft.camera_on,Camera Block On,Camera Block On
 subtitles.monitor_turning_on,Monitor Turning On,Monitor Turning On
 block.cctvcraft.monitor,Monitor,Monitor
@@ -7,68 +10,68 @@ gui.cctvcraft.monitor.display_name_camera_1,Camera 1,Camera 1
 key.cctvcraft.view_camera_4_key,View Camera 4,View Camera 4
 block.cctvcraft.monitor_on,Monitor On,Monitor On
 block.cctvcraft.ceiling_camera_on,Ceiling Camera On,Ceiling Camera On
+gui.cctvcraft.screen_ownership_menu,Ownership Menu,Ownership Menu
 key.cctvcraft.zoom_camera_in_key,Zoom Camera In,Zoom Camera In
-advancements.give_ceiling_camera_recipe.title,Give Ceiling Camera Recipe,Give Ceiling Camera Recipe
+item.cctvcraft.lense,Lense,Lense
 advancements.op_wireless_boss.descr,Craft a Remote Floppy Disk item!,Craft a Remote Floppy Disk item!
 gui.cctvcraft.monitor.display_name_camera_6,Camera 6,Camera 6
 gui.cctvcraft.monitor.display_name_camera_5,Camera 5,Camera 5
 gui.cctvcraft.monitor.display_name_camera_4,Camera 4,Camera 4
+advancements.digital_relic.descr,Craft a Magnetic Coated Disk,Craft a Magnetic Coated Disk
 gui.cctvcraft.monitor.display_name_camera_3,Camera 3,Camera 3
 gui.cctvcraft.monitor.display_name_camera_2,Camera 2,Camera 2
 advancements.op_wireless_boss.title,OP Wireless Boss,OP Wireless Boss
-advancements.give_remote_floppy_disk_recipe.descr,A recipe advancement,A recipe advancement
 advancements.meh_displays.descr,Craft a Monitor block!,Craft a Monitor block!
 item.cctvcraft.remote_floppy,Remote Floppy Disk,Remote Floppy Disk
+gui.cctvcraft.screen_main_menu,Main Menu,Main Menu
 block.cctvcraft.camera,Camera Block,Camera Block
+advancements.going_digital.descr,Craft a Display,Craft a Display
+advancements.digital_relic.title,Digital Relic,Digital Relic
 advancements.smaller_then_most_blocks.title,Smaller Then Most Blocks,Smaller Then Most Blocks
-advancements.give_action_floppy_disk_recipe.title,Give Action Floppy Disk Recipe,Give Action Floppy Disk Recipe
 key.cctvcraft.camera_night_vision_mode_key,Camera Night Vision Mode,Camera Night Vision Mode
-gui.cctvcraft.monitor.main_menu,Main Menu,Main Menu
+itemGroup.tabcctv_craft_devices,CCTV Craft Devices,CCTV Craft Devices
+advancements.better_sight.descr,Craft a Lense,Craft a Lense
 advancements.we_see_you_down_there.descr,Craft a Ceiling Camera block!,Craft a Ceiling Camera block!
 key.categories.cctvcraft,CCTV Craft,CCTV Craft
-gui.cctvcraft.monitor.camera_name_editor,Camera Name Editor,Camera Name Editor
 subtitles.monitor_turning_off,Monitor Turning Off,Monitor Turning Off
 advancements.this_is_my_function.title,This Is My Function,This Is My Function
-advancements.give_monitor_recipe.descr,A recipe advancement,A recipe advancement
 key.cctvcraft.view_camera_6_key,View Camera 6,View Camera 6
 advancements.say_cheese.title,Say Cheese,Say Cheese
 block.cctvcraft.small_camera_on,Small Camera On,Small Camera On
-advancements.give_security_floppy_disk_recipe.title,Give Security Floppy Disk Recipe,Give Security Floppy Disk Recipe
-gui.cctvcraft.monitor.camera_connections,Camera Connections,Camera Connections
-gui.cctvcraft.monitor.naming_menu,Naming Menu,Naming Menu
 advancements.better_lock_that.descr,Craft a Security Floppy Disk item!,Craft a Security Floppy Disk item!
 item.cctvcraft.security_floppy,Security Floppy Disk,Security Floppy Disk
 advancements.cctvcraft.descr,Beyond The Basics!,Beyond The Basics!
 key.cctvcraft.view_camera_1_key,View Camera 1,View Camera 1
-advancements.give_small_camera_recipe.title,Give Small Camera Recipe,Give Small Camera Recipe
-advancements.give_security_floppy_disk_recipe.descr,A recipe advancement,A recipe advancement
+gui.cctvcraft.screen_camera_name_menu,Camera Name Menu,Camera Name Menu
 block.cctvcraft.small_camera,Small Camera,Small Camera
+gui.cctvcraft.screen_monitor_connections_menu,Monitor Connections Menu,Monitor Connections Menu
 subtitles.monitor_turn_on,Monitor Turning On,Monitor Turning On
 key.cctvcraft.exit_camera_view,Exit Camera Mode,Exit Camera Mode
-gui.cctvcraft.monitor.monitor_name_editor,Monitor Name Editor,Monitor Name Editor
 advancements.cctvcraft.title,CCTV Craft,CCTV Craft
-advancements.give_small_camera_recipe.descr,A recipe advancement,A recipe advancement
-advancements.give_camera_recipe.descr,A recipe advancement,A recipe advancement
+gui.cctvcraft.screen_monitor_name_menu,Monitor Name Menu,Monitor Name Menu
+gui.cctvcraft.screen_access_menu,Access Menu,Access Menu
 block.cctvcraft.ceiling_camera,Ceiling Camera,Ceiling Camera
+gui.cctvcraft.screen_users_menu,Users Menu,Users Menu
+gui.cctvcraft.help_text.users_menu.add,Adds a user to a desired role,Adds a user to a desired role
 advancements.this_is_my_function.descr,Craft a Action Floppy Disk item!,Craft a Action Floppy Disk item!
 key.cctvcraft.zoom_camera_out_key,Zoom Camera Out,Zoom Camera Out
 advancements.we_see_you_down_there.title,We See You Down There,We See You Down There
 key.cctvcraft.view_camera_3_key,View Camera 3,View Camera 3
-advancements.give_ceiling_camera_recipe.descr,A recipe advancement,A recipe advancement
-advancements.give_camera_recipe.title,Give Camera Recipe,Give Camera Recipe
-advancements.give_action_floppy_disk_recipe.descr,A recipe advancement,A recipe advancement
+item.cctvcraft.display,Display,Display
+advancements.better_sight.title,Better Sight,Better Sight
 advancements.smaller_then_most_blocks.descr,Craft a Small Camera block!,Craft a Small Camera block!
 item.cctvcraft.action_floppy,Action Floppy Disk,Action Floppy Disk
-advancements.give_remote_floppy_disk_recipe.title,Give Remote Floppy Disk Recipe,Give Remote Floppy Disk Recipe
+itemGroup.tabcctv_craft_tools,CCTV Craft Tools,CCTV Craft Tools
 block.cctvcraft.monitor_on_2,Monitor On,Monitor On
 block.cctvcraft.monitor_on_3,Monitor On,Monitor On
 block.cctvcraft.monitor_on_4,Monitor On,Monitor On
 subtitles.monitor_running,Monitor Running,Monitor Running
 block.cctvcraft.monitor_on_5,Monitor On,Monitor On
+advancements.going_digital.title,Going Digital,Going Digital
 block.cctvcraft.monitor_on_6,Monitor On,Monitor On
 advancements.meh_displays.title,Meh Displays,Meh Displays
+item.cctvcraft.magnetic_coated_disk,Magnetic Coated Disk,Magnetic Coated Disk
 key.cctvcraft.view_camera_2_key,View Camera 2,View Camera 2
 advancements.better_lock_that.title,Better Lock That,Better Lock That
 advancements.say_cheese.descr,Craft a Camera block!,Craft a Camera block!
 block.cctvcraft.monitor_on_1,Monitor On,Monitor On
-advancements.give_monitor_recipe.title,Give Monitor Recipe,Give Monitor Recipe
